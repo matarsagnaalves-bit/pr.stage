@@ -62,11 +62,11 @@ h1 {
     text-align: right;
     flex: 1;
     padding: 100px;
-    width: 350px;
+    width: 350%;
 }
 
 .hero-image img {
-    width: 380px;
+    width: 380%;
     display: flex;
     max-width: 100%;
     height: auto;
